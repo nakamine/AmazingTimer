@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kiri.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/kiri.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/white.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/white.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/door.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/door.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/droimerei.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/droimerei.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ran.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/ran.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/droid_kun.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/droid_kun.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/renka.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/renka.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gentokan.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/gentokan.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/midori.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/midori.png"
+    },
+    {
+        "merged": "/Users/nakami/workspace/AmazingTimer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/nakami/workspace/AmazingTimer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

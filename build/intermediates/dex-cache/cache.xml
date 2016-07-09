@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        jar="/Users/nakami/workspace/AmazingTimer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="72016c8fdfdc3ae4caf6141ae8530259fae3c2bf">
+        <dex dex="/Users/nakami/workspace/AmazingTimer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5d9eabc1f868fba4834f34712cb23979a5a86d7f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nakami/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
         revision="21.1.2"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\android\秋葉原支部\20150720第39回定例会(川崎ABC)\AmazingTimer_201507Start\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-1eb1ebd95c4ae5468f1ce27e5fd014f5244ec701.jar" />
+        <dex dex="/Users/nakami/workspace/AmazingTimer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_7abf3def3248fe7983721d829a569d18365cae00/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nakami/workspace/AmazingTimer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d02b4f11cb1b46649079aa4bb3f932441d86bd28">
+        <dex dex="/Users/nakami/workspace/AmazingTimer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_95fb40878375a3364f0a861c21737fe9f01c198f/classes.dex" />
     </item>
 
 </items>

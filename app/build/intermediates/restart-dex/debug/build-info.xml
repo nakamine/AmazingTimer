@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="120199921379826"
+    token="8865880864639606012" >
+
+    <task
+        name="javac"
+        duration="1732" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="93" />
+    <task
+        name="verifier"
+        duration="55" />
+
+    <artifact
+        location="/Users/nakami/workspace/AmazingTimer/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="120199921379826" >
+        <artifact
+            location="/Users/nakami/workspace/AmazingTimer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
